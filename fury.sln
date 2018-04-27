@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "fury", "..\..\..\..\..\Users\david\source\repos\fury\fury\fury.phpproj", "{99DEA5E4-B60E-44F4-AC33-55AB043382EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DEA5E4-B60E-44F4-AC33-55AB043382EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DEA5E4-B60E-44F4-AC33-55AB043382EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7155BF-A872-4542-9B3F-BDD29D9E69D0}
+	EndGlobalSection
+EndGlobal
